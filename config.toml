@@ -21,7 +21,7 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Abraham Guimbao"
-intro = "Junior Software Engineer && Student @ 42"
+intro = "Software Engineer && Student @ 42"
 description = "Hello, I'm a Spanish student at 42 Paris. Since I was little I've always had a passion for software and computers. I'm currently studying, but I'm open to all kinds of opportunities. Feel free to checkout my portfolio and my CV down below."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
@@ -34,10 +34,12 @@ keywords = "minimalist,blog,goa,hugo,developer"
 ## Social Accounts
 [params.social]
 github = "abguimba"
+gitlab = "gitlab.com/abguimba"
 linkedin = "abraham-guimbao-parra"
 twitter = "abguimba"
 stackoverflow = "10463714"
 email = "abrahamguimbao@gmail.com"
+keybase = "https://keybase.io/abguimba"
 
 ## Extras
 [params.extra]
